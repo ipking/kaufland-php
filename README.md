@@ -1,1 +1,4 @@
-# kaufland-php
+# kaufland php sdk
+
+https://sellerapi.kaufland.com/
+
